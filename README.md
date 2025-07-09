@@ -64,5 +64,5 @@ Gmail: amal17ek@gmail.com
 
 [GitHub](https://github.com/intheperkofextinction)
 
-[LinkedIn](https://www.linkedin.com/in/amal-s-9a5b86310/overlay/contact-info/)
+[LinkedIn](https://www.linkedin.com/in/amal-s-9a5b86310/overlay)
 
