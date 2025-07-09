@@ -22,6 +22,34 @@ Medium Risk: 2 rules triggered
 
 Low Risk: 1 or 0 rules triggered
 
+## Dataset Information
+
+This project uses a synthetically generated dataset created using the Faker Python library to simulate realistic transaction behavior for 1000+ users.
+
+Features include:
+
+user_id
+
+timestamp
+
+amount
+
+transaction_type
+
+balance
+
+This allows for safe experimentation without using any sensitive or real-world financial data.
+
+##  How the Data Was Generated
+
+The dataset was generated using the following Python libraries:
+
+Faker: to generate user names, timestamps, and random transaction types.
+
+NumPy & random: to simulate transaction amounts and account balances with realistic distributions.
+
+Code for data generation is included in the notebook for full transparency and reproducibility.
+
 ## Tools & Technologies Used
 
 Python (Data preprocessing & Rule Engine)
