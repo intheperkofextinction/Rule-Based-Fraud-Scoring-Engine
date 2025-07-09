@@ -60,9 +60,9 @@ Early Warning System for Suspicious Activities
  Contact
 If you have any questions or suggestions, feel free to reach out via
 
-[Gmail](amal17ek@gmail.com)
+Gmail: amal17ek@gmail.com
 
 [GitHub](https://github.com/intheperkofextinction)
 
-[LinkedIn](linkedin.com/in/amal-s-9a5b86310)
+[LinkedIn](https://www.linkedin.com/in/amal-s-9a5b86310/overlay/contact-info/)
 
